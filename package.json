@@ -1,0 +1,29 @@
+{
+  "name": "cv-website-generator",
+  "version": "1.0.0",
+  "description": "AI-powered platform to generate personal websites from CVs using Grok AI",
+  "main": "server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "node server.js"
+  },
+  "keywords": ["cv", "ai", "website-generator", "grok", "llama"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "multer": "^1.4.5-lts.1",
+    "dotenv": "^16.3.1",
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.6.0",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "concurrently": "^8.2.2"
+  }
+}

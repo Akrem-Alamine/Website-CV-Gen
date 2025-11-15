@@ -1,0 +1,97 @@
+# Sample CV for Testing
+
+John Doe
+Software Engineer | Full-Stack Developer
+
+Email: john.doe@email.com
+Phone: +1 (555) 123-4567
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+Website: johndoe.dev
+
+## PROFESSIONAL SUMMARY
+
+Passionate full-stack software engineer with 5+ years of experience building scalable web applications. Expertise in React, Node.js, and cloud technologies. Strong problem-solver with a track record of delivering high-quality solutions.
+
+## WORK EXPERIENCE
+
+### Senior Software Engineer | Tech Corp Inc.
+January 2021 - Present
+San Francisco, CA
+
+- Led development of microservices architecture serving 1M+ users
+- Improved application performance by 40% through optimization
+- Mentored team of 5 junior developers
+- Implemented CI/CD pipelines reducing deployment time by 60%
+
+### Software Engineer | StartupXYZ
+June 2019 - December 2020
+Remote
+
+- Built RESTful APIs using Node.js and Express
+- Developed responsive web applications with React
+- Collaborated with cross-functional teams using Agile methodology
+- Reduced bug reports by 35% through comprehensive testing
+
+### Junior Developer | Web Solutions Ltd.
+January 2018 - May 2019
+New York, NY
+
+- Maintained and enhanced legacy codebases
+- Implemented new features based on client requirements
+- Participated in code reviews and team meetings
+
+## EDUCATION
+
+### Bachelor of Science in Computer Science
+University of California, Berkeley
+2014 - 2018
+GPA: 3.8/4.0
+
+## TECHNICAL SKILLS
+
+**Programming Languages:** JavaScript, TypeScript, Python, Java, SQL
+**Frontend:** React, Vue.js, HTML5, CSS3, Tailwind CSS
+**Backend:** Node.js, Express, Django, Spring Boot
+**Databases:** PostgreSQL, MongoDB, Redis
+**Tools & Technologies:** Git, Docker, Kubernetes, AWS, CI/CD
+**Soft Skills:** Team Leadership, Problem Solving, Communication, Agile Methodologies
+
+## PROJECTS
+
+### E-Commerce Platform
+- Built full-stack e-commerce application with React and Node.js
+- Integrated Stripe payment processing
+- Technologies: React, Node.js, MongoDB, Stripe
+- Link: github.com/johndoe/ecommerce
+
+### Task Management App
+- Developed real-time collaborative task manager
+- Implemented WebSocket for live updates
+- Technologies: React, Socket.io, Express, PostgreSQL
+- Link: github.com/johndoe/taskmanager
+
+### Weather Dashboard
+- Created weather dashboard using OpenWeather API
+- Responsive design with modern UI
+- Technologies: React, TypeScript, Tailwind CSS
+- Link: github.com/johndoe/weather-app
+
+## CERTIFICATIONS
+
+- AWS Certified Solutions Architect - Amazon Web Services (2022)
+- Professional Scrum Master I - Scrum.org (2021)
+- React Developer Certification - Meta (2020)
+
+## AWARDS
+
+- Employee of the Year 2022 - Tech Corp Inc.
+- Best Innovation Award - StartupXYZ Hackathon 2020
+- Dean's List - UC Berkeley (2016, 2017, 2018)
+
+## LANGUAGES
+
+- English (Native)
+- Spanish (Professional Working Proficiency)
+- French (Elementary)
